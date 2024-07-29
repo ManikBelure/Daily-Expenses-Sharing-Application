@@ -1,0 +1,5 @@
+package com.dailyexpensesapp.expensesharing.repository;
+
+public interface ExpenseRepository {
+
+}

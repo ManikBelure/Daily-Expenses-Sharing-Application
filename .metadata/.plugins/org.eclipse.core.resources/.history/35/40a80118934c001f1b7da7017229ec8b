@@ -1,0 +1,5 @@
+package com.dailyexpensesapp.expensesharing.Service;
+
+public class ExpenseService {
+
+}

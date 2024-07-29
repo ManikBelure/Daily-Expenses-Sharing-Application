@@ -1,0 +1,5 @@
+package com.dailyexpensesapp.expensesharing.model;
+
+public class User {
+
+}

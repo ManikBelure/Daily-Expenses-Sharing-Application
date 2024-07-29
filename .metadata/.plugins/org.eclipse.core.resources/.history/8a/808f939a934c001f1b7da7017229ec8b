@@ -1,0 +1,5 @@
+package com.dailyexpensesapp.expensesharing.controller;
+
+public class ExpenseController {
+
+}

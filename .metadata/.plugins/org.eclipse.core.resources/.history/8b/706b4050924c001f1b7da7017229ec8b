@@ -1,0 +1,9 @@
+package com.dailyexpensesapp.expensesharing.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.dailyexpensesapp.expensesharing.model.User;
+
+public interface UserRepositories extends JpaRepository<User , Long>{
+
+}

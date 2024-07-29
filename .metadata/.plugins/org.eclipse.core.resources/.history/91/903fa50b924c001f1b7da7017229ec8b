@@ -1,0 +1,5 @@
+package com.dailyexpensesapp.expensesharing.repositories;
+
+public class UserRepositories {
+
+}
